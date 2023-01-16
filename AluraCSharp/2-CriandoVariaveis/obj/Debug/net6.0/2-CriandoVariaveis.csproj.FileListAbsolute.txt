@@ -1,0 +1,15 @@
+C:\Alura_Curso_CSharp\AluraCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.exe
+C:\Alura_Curso_CSharp\AluraCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.deps.json
+C:\Alura_Curso_CSharp\AluraCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.runtimeconfig.json
+C:\Alura_Curso_CSharp\AluraCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.dll
+C:\Alura_Curso_CSharp\AluraCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.pdb
+C:\Alura_Curso_CSharp\AluraCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.csproj.AssemblyReference.cache
+C:\Alura_Curso_CSharp\AluraCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura_Curso_CSharp\AluraCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.AssemblyInfoInputs.cache
+C:\Alura_Curso_CSharp\AluraCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.AssemblyInfo.cs
+C:\Alura_Curso_CSharp\AluraCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Alura_Curso_CSharp\AluraCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.dll
+C:\Alura_Curso_CSharp\AluraCSharp\2-CriandoVariaveis\obj\Debug\net6.0\refint\2-CriandoVariaveis.dll
+C:\Alura_Curso_CSharp\AluraCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.pdb
+C:\Alura_Curso_CSharp\AluraCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.genruntimeconfig.cache
+C:\Alura_Curso_CSharp\AluraCSharp\2-CriandoVariaveis\obj\Debug\net6.0\ref\2-CriandoVariaveis.dll
