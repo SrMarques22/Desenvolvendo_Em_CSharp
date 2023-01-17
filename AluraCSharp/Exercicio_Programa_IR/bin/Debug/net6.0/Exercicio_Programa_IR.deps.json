@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercicio_Programa_IR/1.0.0": {
+        "runtime": {
+          "Exercicio_Programa_IR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_Programa_IR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Alura_Curso_CSharp\AluraCSharp\Exercicio_Programa_IR\bin\Debug\net6.0\Exercicio_Programa_IR.exe
+C:\Alura_Curso_CSharp\AluraCSharp\Exercicio_Programa_IR\bin\Debug\net6.0\Exercicio_Programa_IR.deps.json
+C:\Alura_Curso_CSharp\AluraCSharp\Exercicio_Programa_IR\bin\Debug\net6.0\Exercicio_Programa_IR.runtimeconfig.json
+C:\Alura_Curso_CSharp\AluraCSharp\Exercicio_Programa_IR\bin\Debug\net6.0\Exercicio_Programa_IR.dll
+C:\Alura_Curso_CSharp\AluraCSharp\Exercicio_Programa_IR\bin\Debug\net6.0\Exercicio_Programa_IR.pdb
+C:\Alura_Curso_CSharp\AluraCSharp\Exercicio_Programa_IR\obj\Debug\net6.0\Exercicio_Programa_IR.csproj.AssemblyReference.cache
+C:\Alura_Curso_CSharp\AluraCSharp\Exercicio_Programa_IR\obj\Debug\net6.0\Exercicio_Programa_IR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura_Curso_CSharp\AluraCSharp\Exercicio_Programa_IR\obj\Debug\net6.0\Exercicio_Programa_IR.AssemblyInfoInputs.cache
+C:\Alura_Curso_CSharp\AluraCSharp\Exercicio_Programa_IR\obj\Debug\net6.0\Exercicio_Programa_IR.AssemblyInfo.cs
+C:\Alura_Curso_CSharp\AluraCSharp\Exercicio_Programa_IR\obj\Debug\net6.0\Exercicio_Programa_IR.csproj.CoreCompileInputs.cache
+C:\Alura_Curso_CSharp\AluraCSharp\Exercicio_Programa_IR\obj\Debug\net6.0\Exercicio_Programa_IR.dll
+C:\Alura_Curso_CSharp\AluraCSharp\Exercicio_Programa_IR\obj\Debug\net6.0\refint\Exercicio_Programa_IR.dll
+C:\Alura_Curso_CSharp\AluraCSharp\Exercicio_Programa_IR\obj\Debug\net6.0\Exercicio_Programa_IR.pdb
+C:\Alura_Curso_CSharp\AluraCSharp\Exercicio_Programa_IR\obj\Debug\net6.0\Exercicio_Programa_IR.genruntimeconfig.cache
+C:\Alura_Curso_CSharp\AluraCSharp\Exercicio_Programa_IR\obj\Debug\net6.0\ref\Exercicio_Programa_IR.dll

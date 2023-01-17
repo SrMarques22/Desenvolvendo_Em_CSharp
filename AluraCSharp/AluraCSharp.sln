@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-Condicionais_2", "8-Condi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Escopo", "9-Escopo\9-Escopo.csproj", "{B94FBA2F-BE19-4D41-8763-B1F87B847D6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_Programa_IR", "Exercicio_Programa_IR\Exercicio_Programa_IR.csproj", "{B42A30B5-AFDE-41A2-A7C8-63697BAA75BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{B94FBA2F-BE19-4D41-8763-B1F87B847D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B94FBA2F-BE19-4D41-8763-B1F87B847D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B94FBA2F-BE19-4D41-8763-B1F87B847D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B42A30B5-AFDE-41A2-A7C8-63697BAA75BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42A30B5-AFDE-41A2-A7C8-63697BAA75BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42A30B5-AFDE-41A2-A7C8-63697BAA75BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42A30B5-AFDE-41A2-A7C8-63697BAA75BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
