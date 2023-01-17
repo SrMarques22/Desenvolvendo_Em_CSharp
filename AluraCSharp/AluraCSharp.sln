@@ -5,13 +5,15 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-OlaMundo", "1-OlaMundo\1-OlaMundo.csproj", "{518EE16F-DC73-4F26-B249-1568665EB519}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{C3833AEF-10A2-4BCA-816B-DA0C7EBE4FCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-CriandoVariaveis", "2-CriandoVariaveis\2-CriandoVariaveis.csproj", "{C3833AEF-10A2-4BCA-816B-DA0C7EBE4FCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-CriandoVariaveisPontosFlutuantes", "3-CriandoVariaveisPontosFlutuantes\3-CriandoVariaveisPontosFlutuantes.csproj", "{C5AC0299-16AF-4B17-80A1-F6E267EB3A8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-CriandoVariaveisPontosFlutuantes", "3-CriandoVariaveisPontosFlutuantes\3-CriandoVariaveisPontosFlutuantes.csproj", "{C5AC0299-16AF-4B17-80A1-F6E267EB3A8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-ConversoesEOutrosTipos", "4-ConversoesEOutrosTipos\4-ConversoesEOutrosTipos.csproj", "{6A352112-31F8-4530-88E9-54A4EFADA369}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-ConversoesEOutrosTipos", "4-ConversoesEOutrosTipos\4-ConversoesEOutrosTipos.csproj", "{6A352112-31F8-4530-88E9-54A4EFADA369}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{FC3E2061-242F-4849-9ACD-76A6363D84E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{FC3E2061-242F-4849-9ACD-76A6363D84E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-AtribuicoesDeVariaveis", "6-AtribuicoesDeVariaveis\6-AtribuicoesDeVariaveis.csproj", "{C2CA9E28-B000-432C-A6B6-B6F9157CAC13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{FC3E2061-242F-4849-9ACD-76A6363D84E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC3E2061-242F-4849-9ACD-76A6363D84E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC3E2061-242F-4849-9ACD-76A6363D84E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2CA9E28-B000-432C-A6B6-B6F9157CAC13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CA9E28-B000-432C-A6B6-B6F9157CAC13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CA9E28-B000-432C-A6B6-B6F9157CAC13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CA9E28-B000-432C-A6B6-B6F9157CAC13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
