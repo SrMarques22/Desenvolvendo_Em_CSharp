@@ -49,6 +49,18 @@ class Programa
            
 
         }
+        
+        Console.WriteLine("");
+        string primeiraFrase = "Alura - Cursos de TI ";
+        Console.WriteLine(primeiraFrase + "2023");
+
+        string segundaFrase = @"lista de códigos: 
+- Python 
+- C# 
+- Java";
+        //Dessa fora no exemplo acima, quando adicionamos o @ no inicio do valor da variavel em string, ele considera a formação no qual a gente deixa as
+        //informações.
+        Console.WriteLine(segundaFrase);
 
         Console.ReadLine();
 
