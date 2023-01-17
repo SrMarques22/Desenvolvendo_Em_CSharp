@@ -18,7 +18,7 @@ class Programa
         Console.WriteLine(y);
 
         double a = 30.0;
-        Console.WriteLine("O valor é "+ (int)a + "!");
+        Console.WriteLine("O valor é "+ (int)a + " !");
 
         float altura = 1.62f;// no c# geralmente usamos o double ao invés do Float, e para que ele
         Console.WriteLine(altura);          // funcione, deve por um f minusculo no final do valo.
