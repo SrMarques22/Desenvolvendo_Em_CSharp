@@ -1,0 +1,15 @@
+C:\Alura_Curso_CSharp\AluraCSharp\p12-InvestimentoALongoPrazo_Encadeando_FOR\bin\Debug\net6.0\p12-InvestimentoALongoPrazo_Encadeando_FOR.exe
+C:\Alura_Curso_CSharp\AluraCSharp\p12-InvestimentoALongoPrazo_Encadeando_FOR\bin\Debug\net6.0\p12-InvestimentoALongoPrazo_Encadeando_FOR.deps.json
+C:\Alura_Curso_CSharp\AluraCSharp\p12-InvestimentoALongoPrazo_Encadeando_FOR\bin\Debug\net6.0\p12-InvestimentoALongoPrazo_Encadeando_FOR.runtimeconfig.json
+C:\Alura_Curso_CSharp\AluraCSharp\p12-InvestimentoALongoPrazo_Encadeando_FOR\bin\Debug\net6.0\p12-InvestimentoALongoPrazo_Encadeando_FOR.dll
+C:\Alura_Curso_CSharp\AluraCSharp\p12-InvestimentoALongoPrazo_Encadeando_FOR\bin\Debug\net6.0\p12-InvestimentoALongoPrazo_Encadeando_FOR.pdb
+C:\Alura_Curso_CSharp\AluraCSharp\p12-InvestimentoALongoPrazo_Encadeando_FOR\obj\Debug\net6.0\p12-InvestimentoALongoPrazo_Encadeando_FOR.csproj.AssemblyReference.cache
+C:\Alura_Curso_CSharp\AluraCSharp\p12-InvestimentoALongoPrazo_Encadeando_FOR\obj\Debug\net6.0\p12-InvestimentoALongoPrazo_Encadeando_FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura_Curso_CSharp\AluraCSharp\p12-InvestimentoALongoPrazo_Encadeando_FOR\obj\Debug\net6.0\p12-InvestimentoALongoPrazo_Encadeando_FOR.AssemblyInfoInputs.cache
+C:\Alura_Curso_CSharp\AluraCSharp\p12-InvestimentoALongoPrazo_Encadeando_FOR\obj\Debug\net6.0\p12-InvestimentoALongoPrazo_Encadeando_FOR.AssemblyInfo.cs
+C:\Alura_Curso_CSharp\AluraCSharp\p12-InvestimentoALongoPrazo_Encadeando_FOR\obj\Debug\net6.0\p12-InvestimentoALongoPrazo_Encadeando_FOR.csproj.CoreCompileInputs.cache
+C:\Alura_Curso_CSharp\AluraCSharp\p12-InvestimentoALongoPrazo_Encadeando_FOR\obj\Debug\net6.0\p12-InvestimentoALongoPrazo_Encadeando_FOR.dll
+C:\Alura_Curso_CSharp\AluraCSharp\p12-InvestimentoALongoPrazo_Encadeando_FOR\obj\Debug\net6.0\refint\p12-InvestimentoALongoPrazo_Encadeando_FOR.dll
+C:\Alura_Curso_CSharp\AluraCSharp\p12-InvestimentoALongoPrazo_Encadeando_FOR\obj\Debug\net6.0\p12-InvestimentoALongoPrazo_Encadeando_FOR.pdb
+C:\Alura_Curso_CSharp\AluraCSharp\p12-InvestimentoALongoPrazo_Encadeando_FOR\obj\Debug\net6.0\p12-InvestimentoALongoPrazo_Encadeando_FOR.genruntimeconfig.cache
+C:\Alura_Curso_CSharp\AluraCSharp\p12-InvestimentoALongoPrazo_Encadeando_FOR\obj\Debug\net6.0\ref\p12-InvestimentoALongoPrazo_Encadeando_FOR.dll

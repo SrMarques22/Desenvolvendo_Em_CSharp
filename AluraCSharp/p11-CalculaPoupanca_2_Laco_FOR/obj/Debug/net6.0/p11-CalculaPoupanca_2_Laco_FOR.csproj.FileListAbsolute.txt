@@ -1,0 +1,15 @@
+C:\Alura_Curso_CSharp\AluraCSharp\p11-CalculaPoupanca_2_Laco_FOR\bin\Debug\net6.0\p11-CalculaPoupanca_2_Laco_FOR.exe
+C:\Alura_Curso_CSharp\AluraCSharp\p11-CalculaPoupanca_2_Laco_FOR\bin\Debug\net6.0\p11-CalculaPoupanca_2_Laco_FOR.deps.json
+C:\Alura_Curso_CSharp\AluraCSharp\p11-CalculaPoupanca_2_Laco_FOR\bin\Debug\net6.0\p11-CalculaPoupanca_2_Laco_FOR.runtimeconfig.json
+C:\Alura_Curso_CSharp\AluraCSharp\p11-CalculaPoupanca_2_Laco_FOR\bin\Debug\net6.0\p11-CalculaPoupanca_2_Laco_FOR.dll
+C:\Alura_Curso_CSharp\AluraCSharp\p11-CalculaPoupanca_2_Laco_FOR\bin\Debug\net6.0\p11-CalculaPoupanca_2_Laco_FOR.pdb
+C:\Alura_Curso_CSharp\AluraCSharp\p11-CalculaPoupanca_2_Laco_FOR\obj\Debug\net6.0\p11-CalculaPoupanca_2_Laco_FOR.csproj.AssemblyReference.cache
+C:\Alura_Curso_CSharp\AluraCSharp\p11-CalculaPoupanca_2_Laco_FOR\obj\Debug\net6.0\p11-CalculaPoupanca_2_Laco_FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura_Curso_CSharp\AluraCSharp\p11-CalculaPoupanca_2_Laco_FOR\obj\Debug\net6.0\p11-CalculaPoupanca_2_Laco_FOR.AssemblyInfoInputs.cache
+C:\Alura_Curso_CSharp\AluraCSharp\p11-CalculaPoupanca_2_Laco_FOR\obj\Debug\net6.0\p11-CalculaPoupanca_2_Laco_FOR.AssemblyInfo.cs
+C:\Alura_Curso_CSharp\AluraCSharp\p11-CalculaPoupanca_2_Laco_FOR\obj\Debug\net6.0\p11-CalculaPoupanca_2_Laco_FOR.csproj.CoreCompileInputs.cache
+C:\Alura_Curso_CSharp\AluraCSharp\p11-CalculaPoupanca_2_Laco_FOR\obj\Debug\net6.0\p11-CalculaPoupanca_2_Laco_FOR.dll
+C:\Alura_Curso_CSharp\AluraCSharp\p11-CalculaPoupanca_2_Laco_FOR\obj\Debug\net6.0\refint\p11-CalculaPoupanca_2_Laco_FOR.dll
+C:\Alura_Curso_CSharp\AluraCSharp\p11-CalculaPoupanca_2_Laco_FOR\obj\Debug\net6.0\p11-CalculaPoupanca_2_Laco_FOR.pdb
+C:\Alura_Curso_CSharp\AluraCSharp\p11-CalculaPoupanca_2_Laco_FOR\obj\Debug\net6.0\p11-CalculaPoupanca_2_Laco_FOR.genruntimeconfig.cache
+C:\Alura_Curso_CSharp\AluraCSharp\p11-CalculaPoupanca_2_Laco_FOR\obj\Debug\net6.0\ref\p11-CalculaPoupanca_2_Laco_FOR.dll
