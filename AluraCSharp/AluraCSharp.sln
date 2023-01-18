@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p11-CalculaPoupanca_2_Laco_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p12-InvestimentoALongoPrazo_Encadeando_FOR", "p12-InvestimentoALongoPrazo_Encadeando_FOR\p12-InvestimentoALongoPrazo_Encadeando_FOR.csproj", "{0A9F3D1B-3C65-4451-83FD-1D3C443E6D4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p13-UtilizandoBreak", "p13-UtilizandoBrek\p13-UtilizandoBreak.csproj", "{933A4D3B-ECBF-4F4C-9D44-29A27476FE32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{0A9F3D1B-3C65-4451-83FD-1D3C443E6D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A9F3D1B-3C65-4451-83FD-1D3C443E6D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A9F3D1B-3C65-4451-83FD-1D3C443E6D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{933A4D3B-ECBF-4F4C-9D44-29A27476FE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933A4D3B-ECBF-4F4C-9D44-29A27476FE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933A4D3B-ECBF-4F4C-9D44-29A27476FE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933A4D3B-ECBF-4F4C-9D44-29A27476FE32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

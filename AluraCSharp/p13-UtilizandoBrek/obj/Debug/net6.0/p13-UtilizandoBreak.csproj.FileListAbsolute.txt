@@ -1,0 +1,15 @@
+C:\Alura_Curso_CSharp\AluraCSharp\p13-UtilizandoBrek\bin\Debug\net6.0\p13-UtilizandoBreak.exe
+C:\Alura_Curso_CSharp\AluraCSharp\p13-UtilizandoBrek\bin\Debug\net6.0\p13-UtilizandoBreak.deps.json
+C:\Alura_Curso_CSharp\AluraCSharp\p13-UtilizandoBrek\bin\Debug\net6.0\p13-UtilizandoBreak.runtimeconfig.json
+C:\Alura_Curso_CSharp\AluraCSharp\p13-UtilizandoBrek\bin\Debug\net6.0\p13-UtilizandoBreak.dll
+C:\Alura_Curso_CSharp\AluraCSharp\p13-UtilizandoBrek\bin\Debug\net6.0\p13-UtilizandoBreak.pdb
+C:\Alura_Curso_CSharp\AluraCSharp\p13-UtilizandoBrek\obj\Debug\net6.0\p13-UtilizandoBreak.csproj.AssemblyReference.cache
+C:\Alura_Curso_CSharp\AluraCSharp\p13-UtilizandoBrek\obj\Debug\net6.0\p13-UtilizandoBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura_Curso_CSharp\AluraCSharp\p13-UtilizandoBrek\obj\Debug\net6.0\p13-UtilizandoBreak.AssemblyInfoInputs.cache
+C:\Alura_Curso_CSharp\AluraCSharp\p13-UtilizandoBrek\obj\Debug\net6.0\p13-UtilizandoBreak.AssemblyInfo.cs
+C:\Alura_Curso_CSharp\AluraCSharp\p13-UtilizandoBrek\obj\Debug\net6.0\p13-UtilizandoBreak.csproj.CoreCompileInputs.cache
+C:\Alura_Curso_CSharp\AluraCSharp\p13-UtilizandoBrek\obj\Debug\net6.0\p13-UtilizandoBreak.dll
+C:\Alura_Curso_CSharp\AluraCSharp\p13-UtilizandoBrek\obj\Debug\net6.0\refint\p13-UtilizandoBreak.dll
+C:\Alura_Curso_CSharp\AluraCSharp\p13-UtilizandoBrek\obj\Debug\net6.0\p13-UtilizandoBreak.pdb
+C:\Alura_Curso_CSharp\AluraCSharp\p13-UtilizandoBrek\obj\Debug\net6.0\p13-UtilizandoBreak.genruntimeconfig.cache
+C:\Alura_Curso_CSharp\AluraCSharp\p13-UtilizandoBrek\obj\Debug\net6.0\ref\p13-UtilizandoBreak.dll
